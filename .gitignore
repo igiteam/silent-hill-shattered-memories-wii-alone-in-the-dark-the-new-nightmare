@@ -1,0 +1,5 @@
+build/
+*.PAK
+/ghidra/
+__pycache__/
+/ThirdParty/ffmpeg/
