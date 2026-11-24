@@ -116,11 +116,7 @@ A layer never uses the ones above it: `util` → `platform` → `core` and `scri
 
 ## Thanks
 
-To everyone who supported the earlier Classic Reborn projects, and made this one possible:
-
-- the **[Old-Games.ru](https://www.old-games.ru) translation bureau**, for the Russian translations of *Alone in the Dark*;
-- [iNdioNicarao](https://github.com/iNdioNicarao), for contributing code;
-- everyone who tested the games and reported problems: [roioros](https://github.com/roioros), [Zerodarkage](https://github.com/Zerodarkage), [EliParker28](https://github.com/EliParker28), [sanviler](https://github.com/sanviler), [olaf2022gh](https://github.com/olaf2022gh), [innywymiar85-byte](https://github.com/innywymiar85-byte), [fhtdtdj](https://github.com/fhtdtdj), [adrianflk](https://github.com/adrianflk), [adjonesey](https://github.com/adjonesey), [RealDrJester](https://github.com/RealDrJester), [Afri24](https://github.com/Afri24), [Xarishark](https://github.com/Xarishark) and [iNdioNicarao](https://github.com/iNdioNicarao).
+To everyone who played and tested the earlier Classic Reborn projects, reported problems and supported them: this one exists thanks to you.
 
 ## License
 
