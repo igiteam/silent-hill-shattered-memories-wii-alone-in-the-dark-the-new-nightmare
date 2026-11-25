@@ -1,5 +1,3 @@
-
-
 # silent-hill-shattered-memories-wii-alone-in-the-dark-the-new-nightmare
 ## Silent Hill Shattered Memories Wii - Alone in the Dark The New Nightmare
 A remake of Alone in the Dark: The New Nightmare (2001), rebuilt in the Silent Hill: Shattered Memories engine, using its motion controls, pointer aiming, and Wii survival horror mechanics as the technical base.
@@ -36,7 +34,7 @@ A remake of Alone in the Dark: The New Nightmare (2001), rebuilt in the Silent H
 [![Silent Hill Shattered Memories Wii](https://raw.githubusercontent.com/igiteam/silent-hill-shattered-memories-wii-alone-in-the-dark-the-new-nightmare/main/silent-hill-shattered-memories-wii.png)](https://vimm.net/vault/63759)
 
 
-
+---
 
 # Alone in the Dark: The New Nightmare – Classic Reborn
 
