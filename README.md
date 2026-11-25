@@ -159,6 +159,11 @@ A layer never uses the ones above it: `util` → `platform` → `core` and `scri
 To everyone who played and tested the earlier Classic Reborn projects, reported problems and supported them: this one exists thanks to you.
 
 
+## License
+
+GNU General Public License v3: see [LICENSE](LICENSE). The libraries in `ThirdParty` keep their own licenses.
+
+
 
 ## Dev Environment
 
@@ -193,9 +198,3 @@ To everyone who played and tested the earlier Classic Reborn projects, reported 
 [https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
 
 ---
-
-
-
-## License
-
-GNU General Public License v3: see [LICENSE](LICENSE). The libraries in `ThirdParty` keep their own licenses.
